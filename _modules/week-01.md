@@ -1,22 +1,21 @@
 ---
 title: Week 1
-topic: Introduction to C++
+topic: Introduction
 ---
-Sun, Jan 8
+Sun, Apr 2
 : [](#)
 
-Mon, Jan 9
+Mon, Apr 3
 : [](#)
 
-Tue, Jan 10
-: 02:00pm **Class**{: .label .label-purple }
-: Start: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue }
+Tue, Apr 4
+: [](#)
 
-Wed, Jan 11
-: **Lab sections**{: .label .label-purple }
+Wed, Apr 5
+: [](#)
 
 Thu, Jan 12
-: 02:00pm **Class**{: .label .label-purple } 
+: [](#)
 
 Fri, Jan 13
 : [](#)
