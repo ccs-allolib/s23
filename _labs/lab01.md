@@ -127,9 +127,9 @@ The image below shows how to copy that URL: (1) Click the green `Code` button.  
 
 Then, use this command to add a remote called `allolib-playground` for the starter code repo:
 
-```
-git remote add allolib-playground paste-url-here
-```
+
+* <tt>git remote add allolib-playground {{page.starter_repo}}</tt>
+
 
 After this command, use `git remote -v` to list all your remotes. Your output should look like this (except your GitHub id in place of `cgaucho`):
 
