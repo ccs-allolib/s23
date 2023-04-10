@@ -2,7 +2,7 @@
 desc: Setting up Notes Repos
 assigned: 2023-04-10 9:30
 due: 2021-04-12 10:45
-layout: lab
+layout: default
 num: lab00
 ready: false
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
@@ -12,6 +12,8 @@ course_org_name: allolib-s23
 starter_repo: https://github.com/AlloSphere-Research-Group/allolib_playground
 prefix: notes
 ---
+
+# {{page.num}} - {{page.desc}}
 
 One of the goals for this course is to forge a path for others to learn about Allolib.
 
