@@ -182,8 +182,8 @@ Now you can start playing with making your own creation!
 
 If you find that you are able to run the demos under your original Allolib Playground clone, but it's not working in the demo1_YOURUSERID repo, try this:
 
-(1) Delete the `allolib` folder
-(2) Run the command again from the Allolib Playground README:
-    ```
-    git submodule update --recursive --init
-    ```
+1. Delete the `allolib` folder
+2. Run the command again from the Allolib Playground README:
+   ```
+   git submodule update --recursive --init
+   ```
