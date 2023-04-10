@@ -40,9 +40,13 @@ This lab checks that you can succesfully create a piece using the techniques sho
    to `~/allolib` throughout the rest of
    the instructions for consistency.)
 
-2. Now, go to the `github.com` web page, and find your `demo1-userid` repo. The page should look something like this:
+2. Now, go to the this webpage:
+  
+   * <https://github.com/orgs/allolib-s23/repositories>
+   
+   and find your `demo1-userid` repo. The page should look something like this:
 
-   ![jpa00-cgaucho-50.png](jpa00-cgaucho-50.png)
+   
 
    You should see a button for `SSH`;
    select that button.  Then there is a button to copy the URL shown;
@@ -113,7 +117,7 @@ Now, we are going to add a second remote.  This remote will use the URL for the 
 
 The image below shows how to copy that URL: (1) Click the green `Code` button.  (2) Select `SSH` to choose that as the network protocol for the URL (3) Click the icon to copy the URL to your clipboard.
 
-![starter-ssh-url-50.png](starter-ssh-url-50.png)
+
 
 Then, use this command to add a remote called `allolib-playground` for the starter code repo:
 
@@ -140,9 +144,9 @@ that code to your origin repo on GitHub.
 Here are the three commands:
 
 ```
-git checkout -b main
-git pull allolib-playground main
-git push origin main
+git checkout -b master
+git pull allolib-playground master
+git push origin master
 ```
 
 After these three commands, go look at your repo on GitHub, i.e. the repo at this url (but substituting your GitHub id for cgaucho:)
