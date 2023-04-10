@@ -10,7 +10,7 @@ slack: https://allolib-s23.slack.com
 course_org: https://github.com/allolib-s23
 course_org_name: allolib-s23
 starter_repo: https://github.com/AlloSphere-Research-Group/allolib_playground
-prefix: lab01
+prefix: demo1
 ---
 
 
@@ -46,7 +46,13 @@ This lab checks that you can succesfully create a piece using the techniques sho
    
    and find your `demo1-userid` repo. The page should look something like this:
 
+   <img width="761" alt="image" src="https://user-images.githubusercontent.com/1119017/230951970-b2f40853-73c8-4375-97d5-c957b8bfb76d.png">
+
+
+   Select your own repo, and you should see something like this:
    
+   <img width="1211" alt="image" src="https://user-images.githubusercontent.com/1119017/230952087-f205ebf8-a5ca-4358-ab0d-403d32d57f8d.png">
+
 
    You should see a button for `SSH`;
    select that button.  Then there is a button to copy the URL shown;
@@ -56,7 +62,7 @@ This lab checks that you can succesfully create a piece using the techniques sho
    `url` with the url that you copied.
 
    That `url` should be something like
-   <tt>git@github.com:{{page.course_org_name}}/{{page.num}}-cgaucho.git</tt> but with your GitHub id in place of <tt>cgaucho</tt>.
+   <tt>git@github.com:{{page.course_org_name}}/{{page.prefix}}-cgaucho.git</tt> but with your GitHub id in place of <tt>cgaucho</tt>.
 
    ```
    git clone url
@@ -129,8 +135,8 @@ After this command, use `git remote -v` to list all your remotes. Your output sh
 
 <tt>
 % git remote -v<br />
-origin	git@github.com:{{page.course_org_name}}/{{page.num}}-cgaucho.git (fetch)<br />
-origin	git@github.com:{{page.course_org_name}}/{{page.num}}-cgaucho.git (push)<br />
+origin	git@github.com:{{page.course_org_name}}/{{page.prefix}}-cgaucho.git (fetch)<br />
+origin	git@github.com:{{page.course_org_name}}/{{page.prefix}}-cgaucho.git (push)<br />
 allolib-playground	git@github.com:AlloSphere-Research-Group/allolib_playground.git (fetch)<br />
 allolib-playground	git@github.com:AlloSphere-Research-Group/allolib_playground.git (push)<br />
 % 
