@@ -96,9 +96,9 @@ You should eventually see a page that looks like this one at your link:
 ![image](https://user-images.githubusercontent.com/1119017/114592865-41295580-9c40-11eb-8c5f-eb8c819e7617.png)
 
 
-# Step 3: Submit a link to your repo and page on Canvas
+# Step 3: Submit a link to github repo on Canvas
 
-To signal that you are finished with this step, please submit on Canvas at the assignment called lab00.
+To signal that you are finished with this step, please submit the url for your repo on Canvas at the assignment called lab00.
 
 
 
