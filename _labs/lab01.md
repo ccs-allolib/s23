@@ -2,7 +2,7 @@
 desc: Getting Started
 assigned: 2023-04-10 9:30
 due: 2023-04-12 10:45
-layout: lab
+layout: default
 num: lab01
 ready: false
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
