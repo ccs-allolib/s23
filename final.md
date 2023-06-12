@@ -15,7 +15,7 @@ You may show a single piece, multiple pieces, or excerpts from multiple pieces, 
 
 # Written Summary (may by public or private)
 
-Please also prepare about a 1-page written summary of your work this quarter in your [notes repo]().
+Please also prepare about a 1-page written summary of your work this quarter in your [notes repo](https://ccs-allolib.github.io/s23/labs/lab00/).
 * If you are ok with this being public, you may leave your notes repo public, 
   in which case the contents will linked to from [here](https://allolib-s23.github.io/).
 * If you prefer your summary to be private, simply change the visibility of your notes repo from public to private.  It will
